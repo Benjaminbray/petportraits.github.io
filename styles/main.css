@@ -1,0 +1,22 @@
+.main{
+   display: flex; 
+   flex-direction: column;
+    width: 300px;
+    align-items: center;
+
+}
+.description-info{
+    background-color: lightblue;
+}
+.button-catalogue{
+    background-color: lightcoral;
+
+}
+.description-order{
+    background-color: lightblue;
+
+}
+.button-order{
+    background-color: lightcoral;
+
+}

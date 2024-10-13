@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.doggy1-pic{
+    background-color: lightblue;
+    border-width: 30px;
+}
+.doggy2-pic{
+    background-color: lightcoral;
+}
+.heading-text{
+    background-color: lightblue;
+}
+.button-contact{
+    background-color: lightcoral;
+}
